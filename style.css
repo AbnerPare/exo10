@@ -1,0 +1,142 @@
+/*.recherche {
+    border: 2px solid rgb(204, 192, 192);
+    border-radius: 50px;
+    
+    width: 400px;
+    height: 50px;
+    
+    font-size: 15px;
+    text-align:left ;
+    outline: none;
+    padding-left: 50px;
+    padding-top: 50px;
+    
+
+    
+}*/
+.ll {
+    border: 2px solid rgb(204, 192, 192);
+    border-radius: 50px;
+    background-color: white;
+    width: 400px;
+    padding-left: 40x;
+    padding-right: 60px;
+    justify-content: center;
+    align-items: center;
+    margin-top: -55px;
+}
+
+.recherche {
+    border: none;
+    background: none;
+    width: 400px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    outline: none;
+
+}
+
+.gg {
+    text-align: right;
+}
+
+.go {
+    text-align: center;
+    font-size: 40px;
+    font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+}
+
+.blue {
+    color: blue;
+}
+
+.red {
+    color: red;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.green {
+    color: green;
+}
+
+.ee {
+    background-color: blue;
+    color: white;
+    border: 5px solid white;
+    border-radius: 50px;
+    padding: 2px;
+}
+
+.t {
+    background-color: rgb(186, 186, 214);
+    color: black;
+    border: 5px solid white;
+    padding: 5px;
+    transition-duration: 0, 2s;
+}
+
+a {
+    text-decoration: none;
+}
+
+.re {
+    position: absolute;
+    left: 470px;
+    margin-top: -35px;
+
+}
+
+
+.mi {
+    position: absolute;
+    left: 820px;
+    margin-top: -45px;
+}
+
+.ligne-courbee {
+    width: 100px;
+    height: 50px;
+    border-radius: 0 0 50px 50px;
+    transform: rotate(180deg);
+    background-color: #df1b1b;
+    justify-content:space-between;
+    margin-right: auto px;
+    margin-left: auto px;
+}
+
+.ca {
+
+    position: absolute;
+    left: 860px;
+    margin-top: -35px;
+
+}
+
+.t {
+    background-color: rgb(80, 201, 201);
+    border: solid rgb(48, 48, 45);
+    border-radius: 30px;
+    padding: 5px;
+    width: 150px;
+    transition: box-shadow 0.005s ease-in-out;
+}
+
+.t:hover {
+    box-shadow: 8px 8px black;
+}
+
+.e {
+    border: solid burlywood;
+    border-radius: 50px;
+    background-color: b;
+}
+
+.pp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
